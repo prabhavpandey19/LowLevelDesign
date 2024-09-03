@@ -1,0 +1,7 @@
+
+»
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ş »»şÿÿÿÿ8Ê•û‚‹2
+[
+java:S2168 "9Remove this dangerous instance of double-checked locking.(ÌîÇüÿÿÿÿ8Ì•û‚‹2
+C
+java:S1860*"&Synchronize on a new "Object" instead.(ïé¸‘8Ì•û‚‹2

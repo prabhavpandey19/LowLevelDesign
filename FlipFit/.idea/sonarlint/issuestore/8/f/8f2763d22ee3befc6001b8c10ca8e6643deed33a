@@ -1,0 +1,11 @@
+
+»
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ó³úÿÿÿÿ8ææƒ‹2
+V
+java:S2168("9Remove this dangerous instance of double-checked locking.(ËàÄ²8éæƒ‹2
+B
+java:S18602"&Synchronize on a new "Object" instead.(¤´‘^8éæƒ‹2
+o
+java:S6204a"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8¡Ì•ƒ‹2
+H
+java:S1860w"&Synchronize on a new "Object" instead.(ãÌ„¸úÿÿÿÿ8ñæƒ‹2

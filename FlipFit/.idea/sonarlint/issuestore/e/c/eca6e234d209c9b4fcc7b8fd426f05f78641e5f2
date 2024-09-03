@@ -1,0 +1,13 @@
+
+Y
+java:S2589R"7Remove this expression which always evaluates to "true"(„‚²Õúÿÿÿÿ8öş–‹2
+T
+java:S2589L"7Remove this expression which always evaluates to "true"(ë×Ëİ8öş–‹2
+»
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(¾¼Ó®ıÿÿÿÿ8—ÙßîŠ2
+V
+java:S2168"9Remove this dangerous instance of double-checked locking.(ÁÛé¯8ÁØØîŠ2
+B
+java:S1860a"&Synchronize on a new "Object" instead.(¤´‘^8óå‘ïŠ2
+M
+java:S1068"1Remove this unused "userIdVsSlots" private field.( p8™”ñŠ2

@@ -1,0 +1,22 @@
+
+s
+java:S1192-"QDefine a constant instead of duplicating this literal "Reservations :- " 4 times.(óéÉÐøÿÿÿÿ8©þ‹ª‹2
+L	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8Åóì©‹2
+L	java:S106%"+Replace this use of System.out by a logger.(ÁÃµéýÿÿÿÿ8Ò¸‹ª‹2
+L	java:S106&"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Ò¸‹ª‹2
+L	java:S106)"+Replace this use of System.out by a logger.(†¯ìÚøÿÿÿÿ8Ò¸‹ª‹2
+L	java:S106*"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Ó¸‹ª‹2
+L	java:S106-"+Replace this use of System.out by a logger.(óéÉÐøÿÿÿÿ8Ó¸‹ª‹2
+L	java:S106."+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Ó¸‹ª‹2
+L	java:S1062"+Replace this use of System.out by a logger.(óéÉÐøÿÿÿÿ8Ô¸‹ª‹2
+L	java:S1063"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Ô¸‹ª‹2
+R
+java:S11729"5Remove this unused method parameter "stationManager".(üš´±8Òóì©‹2
+L	java:S106<"+Replace this use of System.out by a logger.(ÁÃµéýÿÿÿÿ8ºþ‹ª‹2
+L	java:S106="+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ºþ‹ª‹2
+L	java:S106@"+Replace this use of System.out by a logger.(†¯ìÚøÿÿÿÿ8ºþ‹ª‹2
+L	java:S106A"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ºþ‹ª‹2
+L	java:S106D"+Replace this use of System.out by a logger.(óéÉÐøÿÿÿÿ8ºþ‹ª‹2
+L	java:S106E"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8»þ‹ª‹2
+L	java:S106I"+Replace this use of System.out by a logger.(óéÉÐøÿÿÿÿ8»þ‹ª‹2
+L	java:S106J"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8»þ‹ª‹2

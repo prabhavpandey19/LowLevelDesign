@@ -1,0 +1,12 @@
+
+g	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(©š´µûÿÿÿÿ8¥²Ö©‹2
+b	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(©‰˜¦8¥²Ö©‹2
+g	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(ÿð¶ãùÿÿÿÿ8¥²Ö©‹2
+j
+java:S2184a"HCast one of the operands of this multiplication operation to a "double".(£®¿åøÿÿÿÿ8‰áØ©‹2
+¶
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(£š”¸8²²Ö©‹2
+V
+java:S2168%"9Remove this dangerous instance of double-checked locking.(«¯òé8µ²Ö©‹2
+B
+java:S1860/"&Synchronize on a new "Object" instead.(¤´‘^8µ²Ö©‹2

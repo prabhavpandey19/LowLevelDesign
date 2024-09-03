@@ -1,0 +1,13 @@
+
+a	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(¦–’|8Æ±é’‹2
+b	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Í¹ˆ8™Øé’‹2
+g	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(å¥¹ƒùÿÿÿÿ8™Øé’‹2
+g	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(©š´µûÿÿÿÿ8«Žê’‹2
+g	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(ÊÜÁôùÿÿÿÿ8«Žê’‹2
+g	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(©š´µûÿÿÿÿ8«Žê’‹2
+´
+java:S6548	"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(¾¼Ó®ýÿÿÿÿ
+O
+java:S2168"9Remove this dangerous instance of double-checked locking.(ÁÛé¯
+;
+java:S1860Z"&Synchronize on a new "Object" instead.(¤´‘^
