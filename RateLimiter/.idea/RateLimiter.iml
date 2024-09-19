@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="1b772077-a3a5-4b03-8f11-8ad75d236c1f" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/src/main/resources/templates" />
+      </list>
+    </option>
+  </component>
+</module>
